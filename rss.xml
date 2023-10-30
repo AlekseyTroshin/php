@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss varsion="2.0">
+  <channel>
+    <item>
+      <title>Hello</title>
+      <category>Политика</category>
+      <description><![CDATA[hihihi]]></description>
+      <source>onetwo</source>
+      <pubDate>1698693308</pubDate>
+    </item>
+    <item>
+      <title>Hello</title>
+      <category>Политика</category>
+      <description><![CDATA[hihihi]]></description>
+      <source>onetwo</source>
+      <pubDate>1698693204</pubDate>
+      <link>http://localhost:8888/news/news.php</link>
+    </item>
+  </channel>
+</rss>
